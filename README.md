@@ -1,4 +1,4 @@
-# Kscraper
+# https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kick.com_icon_logo.svg/1200px-Kick.com_icon_logo.svg.png Kscraper
 
 Kscraper is a Python package for interacting with Kick.com APIs. It allows you to fetch emotes, leaderboards, messages, polls, and more.
 
