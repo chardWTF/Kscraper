@@ -49,4 +49,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Author
 
-Your Name - [GitHub](https://github.com/chardWTF)
+chardWTF - [GitHub](https://github.com/chardWTF)
