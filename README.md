@@ -1,4 +1,8 @@
+# Kscraper
+
 ![Kscraper Logo](https://files.catbox.moe/26xqdp.png)
+
+Kscraper is a Python package for interacting with Kick.com APIs. It allows you to fetch emotes, leaderboards, messages, polls, and more.
 
 ## Installation
 
@@ -39,6 +43,10 @@ print(messages)
 - `get_rules(username: str)`: Fetch chatroom rules.
 - `send_chat(user_id: int, token: str, content: str)`: Send a chat message.
 
+## Disclaimer
+
+This project is for educational purposes only. The author is not responsible for any misuse of this software. Use it at your own risk.
+
 ## License
 
 This project is licensed under the MIT License.
@@ -46,7 +54,8 @@ This project is licensed under the MIT License.
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-LMK what you want on here @chard16 on discord
+
+LMK what you want on here @chard16 on Discord.
 
 ## Author
 
