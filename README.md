@@ -9,7 +9,7 @@ pip install Kscraper
 ## Usage
 
 ```python
-from Kscraper import Client
+from Kscraper import Clients
 
 client = Client()
 
